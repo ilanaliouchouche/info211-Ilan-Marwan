@@ -19,14 +19,14 @@ public class Frog implements IFrog {
 
 	/**
 	 *
-	 * @return position frog.
+	 * @return la position de frog.
 	 */
 	public Case getPosition() {
 		return this.pos;
 	}
 
 	/**
-	 * @return direction frog.
+	 * @return la direction de frog.
 	 */
 	public Direction getDirection() {
 		return this.dir;
